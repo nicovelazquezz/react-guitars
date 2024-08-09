@@ -33,7 +33,7 @@ La aplicación utiliza hooks de React para la gestión del estado:
 
 1. Clona el repositorio.
 2. Ejecuta `npm install` para instalar las dependencias.
-3. Ejecuta `npm start` para iniciar la aplicación.
+3. Ejecuta `npm run dev` para iniciar la aplicación.
 
 ## Uso
 
