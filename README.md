@@ -26,7 +26,7 @@ La aplicación utiliza hooks de React para la gestión del estado:
 
 - **useState**: Para manejar el estado del carrito y los datos de las guitarras.
 - **useEffect**: Para guardar el estado del carrito en localStorage cada vez que este cambia.
-- **useMemo**: En el componente `Header` para calcular si el carrito está vacío y el total del carrito.
+- **useMemo**: Para calcular si el carrito está vacío y el total del carrito.
 - **customHooks**: Para separar la lógica de la renderización de los componentes.
 
 ## Instalación
